@@ -14,3 +14,13 @@
     font-style: oblique;
     background-color: rgb(228, 179, 228);
 }
+.span{
+    background-color: bisque;
+    padding: 5px;
+    margin: auto;
+    border: 10px;
+    border-radius: 20px;
+    font-style: italic;
+    font-size: xx-large;
+    box-shadow: 5px 5px blueviolet;
+}
