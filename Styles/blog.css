@@ -1,5 +1,9 @@
 .first{
     background-color: coral;
     padding: 10px;
-    
+
+}
+.img{
+    font-family: monospace;
+    color: slateblue;
 }
