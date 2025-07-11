@@ -7,3 +7,10 @@
     font-family: monospace;
     color: slateblue;
 }
+.p{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: rgb(228, 179, 228);
+}
